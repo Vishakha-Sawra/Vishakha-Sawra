@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakha-Sawra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Vishakha-Sawra/Vishakha-Sawra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
