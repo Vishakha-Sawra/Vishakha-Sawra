@@ -1,10 +1,11 @@
-### Hi there 👋, Vishakha Sawra
-#### Front-End Developer
 ![Front-End Developer](https://github.com/Vishakha-Sawra/Vishakha-Sawra/blob/main/banner.jpg?raw=true)
 
+# Hi there 👋, I'm Vishakha Sawra
+## Front-End Developer 👩‍💻
 I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general.
 
-Skills: JS / HTML / CSS
+## Skills: 
+* 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on Enhancing my JavaScript Skills. 
 - 🌱 I’m currently learning JavaScipt 
