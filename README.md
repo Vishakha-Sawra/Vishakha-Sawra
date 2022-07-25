@@ -1,6 +1,6 @@
 ### Hi there 👋, Vishakha Sawra
 #### Front-End Developer
-![Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQFEvj2nygewgw/profile-displaybackgroundimage-shrink_200_800/0/1647446129444?e=1664409600&v=beta&t=BXKxNpth_h88DgGTmWGQZBstba9OcouaucZJP671j8o)
+![Front-End Developer](https://github.com/Vishakha-Sawra/Vishakha-Sawra/blob/main/banner.jpg?raw=true)
 
 I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general.
 
