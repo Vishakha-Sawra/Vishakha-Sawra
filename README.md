@@ -1,20 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Vishakha Sawra
+#### Front-End Developer
+![Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQFEvj2nygewgw/profile-displaybackgroundimage-shrink_200_800/0/1647446129444?e=1664409600&v=beta&t=BXKxNpth_h88DgGTmWGQZBstba9OcouaucZJP671j8o)
 
-I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general. 
+I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakha-Sawra)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JS / HTML / CSS
 
-<!--
-**Vishakha-Sawra/Vishakha-Sawra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Enhancing my JavaScript Skills. 
+- 🌱 I’m currently learning JavaScipt 
+- 📫 How to reach me: vishakhasawra@gmail.com 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I love playing Guitar. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/VishakhaSawra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishakha_sawra/)  
+
