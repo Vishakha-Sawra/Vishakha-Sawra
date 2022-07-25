@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vishakha Sawra 👋
 ## Front-End Developer 👩‍💻
-I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general.
+I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on HTML, CSS and JavaScript. I also enjoy working with UI, UX design in general.
 
 ## Skills: 
 * 💻 JS / HTML / CSS
