@@ -8,7 +8,7 @@ I'm Vishakha from India, and I'm a Front-End Developer focusing mainly on HTML, 
 * 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on Enhancing my JavaScript Skills. 
-- 🌱 I’m currently learning JavaScipt 
+- 🌱 I’m currently learning TypeScipt 
 - 📫 How to reach me: vishakhasawra@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love playing Guitar. 
